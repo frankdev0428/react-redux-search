@@ -1,56 +1,68 @@
-Contribution: 2022-07-06 20:00
+# Sonra_Search
 
-Contribution: 2022-07-06 20:01
+## Description
 
-Contribution: 2022-07-21 20:00
+A small React/TypeScript + Redux application that allows users to search for and display details of books using an external API.
 
-Contribution: 2022-07-21 20:01
+## Prerequisites
 
-Contribution: 2022-08-10 20:00
+Before running this project, make sure you have the following software/tools installed on your machine:
 
-Contribution: 2022-08-10 20:01
+- [Node.js](https://nodejs.org/) (v18.12.0 recommended)
+- [npm](https://www.npmjs.com/) (v8.1.0 or higher)
 
-Contribution: 2022-10-18 20:00
+## Installation
 
-Contribution: 2022-10-23 20:00
+Follow these steps to set up and run the project:
 
-Contribution: 2022-10-23 20:01
+1. Clone this repository to your local machine:
 
-Contribution: 2022-12-17 20:00
+   ```shell
+   git clone https://github.com/prodev08/sonra_search.git
 
-Contribution: 2022-12-17 20:01
+   ```
 
-Contribution: 2023-01-15 20:00
+2. Change to the project directory:
 
-Contribution: 2023-01-15 20:01
+   ```shell
+   cd sonra_search
 
-Contribution: 2023-01-29 20:00
+   ```
 
-Contribution: 2023-02-15 20:00
+3. Install project dependencies:
 
-Contribution: 2023-02-15 20:01
+   ```shell
+   npm install
 
-Contribution: 2023-03-19 20:00
+   ```
 
-Contribution: 2023-03-19 20:01
+## Usage
 
-Contribution: 2023-04-10 20:00
+1. To start the project, use the following command:
 
-Contribution: 2023-04-10 20:01
+   ```shell
+   npm start
 
-Contribution: 2023-04-11 20:00
+   ```
 
-Contribution: 2023-04-11 20:01
+   This will launch the development server, and you can access the application in your web browser at http://localhost:3000.
 
-Contribution: 2023-04-26 20:00
+## Testing
 
-Contribution: 2023-05-24 20:00
+1. You can run tests for the project with the following command:
 
-Contribution: 2023-05-24 20:01
+   ```shell
+   npm run test
 
-Contribution: 2023-06-03 20:00
+   ```
 
-Contribution: 2023-06-18 20:00
+## Dependencies
 
-Contribution: 2023-06-18 20:01
+This project uses the following main dependencies:
 
+- Redux Toolkit: For state management.
+- Tailwind CSS: For styling the user interface.
+- React: The JavaScript library for building user interfaces.
+- TypeScript: For adding static typing to JavaScript.
+
+Please refer to the package.json file for a complete list of dependencies.
